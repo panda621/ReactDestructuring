@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactDestructuring/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactDestructuring/static/js/main.547bc383.js",
+    "index.html": "/ReactDestructuring/index.html",
+    "main.e6c13ad2.css.map": "/ReactDestructuring/static/css/main.e6c13ad2.css.map",
+    "main.547bc383.js.map": "/ReactDestructuring/static/js/main.547bc383.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.547bc383.js"
+  ]
+}
